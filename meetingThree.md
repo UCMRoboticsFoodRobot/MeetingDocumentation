@@ -3,13 +3,13 @@
 ### Third Meeting
 * Meeting Goals:
 	* Learn basics of HTML and CSS
-* Made example file of html and css and studied some basic tags:
+* Made example file of html and CSS and studied some basic tags:
 	* body tags
 	* paragraph tags
 	* Image tags
-	* changing color and font with css
+	* changing color and font with CSS
 	* div tags
-* Learned how to link a css file to an html file
+* Learned how to link a CSS file to an html file
 * Discussed sensors with Mechanical Team
 * Uploaded sample file of todays work to GitHub
 * Attendees:
@@ -20,4 +20,8 @@
 	* Sean Callaghan
 	* Name Name
 	* Name Name
-
+# Goals for Next Meeting
+* Discuss ACM Github Workshop
+* Discuss Food Pantry Meeting
+* Learn JavaScript, re-create a cold caller game
+* Review any concepts if need be.
