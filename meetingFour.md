@@ -6,6 +6,11 @@
 * Team members went to https://www.learn-js.org/ to learn JS
 * Jatnael Montes demonstrated example code and how to link a .js file to a .html file
    * The example code was posted to the GitHub repo
+* Attendees:
+ * Busher Bridi
+ * Yash Sharma
+ * Jatnael Montes
+ * Paulo Sousa
    
 # Goals for Next Meeting
 * Begin work on the web app
