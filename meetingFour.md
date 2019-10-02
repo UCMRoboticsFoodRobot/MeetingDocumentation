@@ -11,6 +11,7 @@
  * Yash Sharma
  * Jatnael Montes
  * Paulo Sousa
+ * Christopher Oey
    
 # Goals for Next Meeting
 * Begin work on the web app
