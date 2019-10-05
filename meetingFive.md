@@ -14,12 +14,12 @@
 	* Confirmation Page
 	* Settings Page
  * Attendees:
-        * Yash Sharma
-        * Jatnael Montes
+	* Yash Sharma
+	* Jatnael Montes
 	* Name Name
 	* Name Name
-        * Name Name
-        * Name Name
+	* Name Name
+	* Name Name
 # Goals for Next Meeting
 * Break into sub groups
 	* Back-end
