@@ -16,7 +16,7 @@
  * Attendees:
 	* Yash Sharma
 	* Jatnael Montes
-	* Name Name
+	* Paulo Alberto Sousa
 	* Name Name
 	* Name Name
 	* Name Name
