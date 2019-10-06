@@ -22,3 +22,4 @@
 
 # Goals For Next Meeting
 * Create team-specific deadlines (use the Microsoft Teams doc)
+* Start working on the app!! 
