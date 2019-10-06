@@ -17,7 +17,7 @@
 	* Yash Sharma
 	* Jatnael Montes
 	* Paulo Alberto Sousa
-	* Name Name
+	* Christopher Oey
 	* Name Name
 	* Name Name
 # Goals for Next Meeting
