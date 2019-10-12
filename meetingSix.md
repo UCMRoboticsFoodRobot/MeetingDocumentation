@@ -19,7 +19,7 @@
 	* Jatnael Montes
 	* Busher Bridi
 	* Yash Sharma
-	* Name Name
+	* Christopher Oey
 	* Name Name
 	* Name Name
 
