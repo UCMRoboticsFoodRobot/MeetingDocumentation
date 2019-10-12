@@ -18,5 +18,6 @@
         * Jatnael Montes
         * Busher Bridi
         * Yash Sharma
-        * Name Name
+        * Brendan Blasius
+		*Nathan Edwards
         * Name Name
