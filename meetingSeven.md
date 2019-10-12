@@ -20,4 +20,4 @@
         * Yash Sharma
         * Brendan Blasius
 		*Nathan Edwards
-        * Name Name
+        * Christopher Oey
