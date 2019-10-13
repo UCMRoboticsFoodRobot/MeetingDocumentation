@@ -21,4 +21,4 @@
         * Brendan Blasius
 		* Nathan Edwards
         * Christopher Oey
-	* Baixi Guo (Steven)
+		* Baixi Guo (Steven)
