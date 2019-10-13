@@ -19,6 +19,6 @@
         * Busher Bridi
         * Yash Sharma
         * Brendan Blasius
-		*Nathan Edwards
+		* Nathan Edwards
         * Christopher Oey
 	* Baixi Guo (Steven)
