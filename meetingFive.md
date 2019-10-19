@@ -18,6 +18,8 @@
 	* Jatnael Montes
 	* Paulo Alberto Sousa
 	* Christopher Oey
+	* Brendan Blasius
+	* Nathan Edwards
 	* Name Name
 	* Name Name
 # Goals for Next Meeting

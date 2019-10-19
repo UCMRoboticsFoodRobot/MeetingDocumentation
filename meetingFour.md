@@ -12,6 +12,8 @@
  * Jatnael Montes
  * Paulo Sousa
  * Christopher Oey
+ * Brendan Blasius
+ * Nathan Edwards
    
 # Goals for Next Meeting
 * Begin work on the web app

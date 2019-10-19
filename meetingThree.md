@@ -18,6 +18,8 @@
 	* Jatnael Montes
 	* Paulo Sousa
 	* Sean Callaghan
+	* Brendan Blasius
+	* Nathan Edwards
 	* Name Name
 	* Name Name
 # Goals for Next Meeting
