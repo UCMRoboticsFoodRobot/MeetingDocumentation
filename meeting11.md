@@ -10,7 +10,7 @@
 	* Began high level design of main page
 
 * Attendees:
-	* Paulo Alber Sousa
+	* Paulo Alberto Sousa
 	* Jatnael Montes
 	* Busher Bridi
 	* Alexander Hom
